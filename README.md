@@ -1,6 +1,5 @@
 # [![Kathará](images/logo_kathara_small.png)](http://www.kathara.org)
-
-<p style="float:right">
+<p align="right">
     <a href="https://www.gnu.org/licenses/gpl-3.0"><img src="https://img.shields.io/badge/License-GPL%20v3-blue.svg" alt="License: GPL v3" target="_blank" /></a>
 </p>
 
